@@ -44,4 +44,5 @@ Gem::Specification.new do |spec|
 
   spec.add_runtime_dependency("msgpack", "~> 1.0")
   spec.add_runtime_dependency("thwait")
+  spec.add_runtime_dependency("e2mmap")
 end
